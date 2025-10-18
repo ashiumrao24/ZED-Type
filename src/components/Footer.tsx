@@ -50,31 +50,6 @@ export default function Footer() {
             <span className="hint">
                 <kbd>Tab</kbd> to restart test
             </span>
-            <footer>
-                
-                <a
-                    target="_blank"
-                    rel="noreferrer"
-                    href="https://www.github.com/amanraox">
-                    <span>&lt;/&gt;</span> github
-                </a>
-                <span>
-                    Made by{" "}
-                    <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href="https://amanraox.github.io">
-                        @amanraox
-                    </a>🍁
-                </span>
-                
-                    <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href="https://www.linkedin.com/in/amanraox">
-                        linkedIn
-                    </a>
-            </footer>
         </div>
     );
 }
